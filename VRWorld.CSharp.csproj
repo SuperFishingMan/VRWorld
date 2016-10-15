@@ -113,7 +113,7 @@
     <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrIntent.cs" />
     <Compile Include="Assets\Scripts\clickManager.cs" />
     <Compile Include="Assets\Scripts\gameManager.cs" />
-    <Compile Include="Assets\vrLookWalk.cs" />
+    <Compile Include="Assets\Scripts\vrLookWalk.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Docs\Manual.txt" />
